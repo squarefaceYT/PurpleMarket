@@ -26,4 +26,4 @@ clientDiscord.on("message", message => {
 
 
 // Connexion
-clientDiscord.login('Njk1NzgyOTY4NzAyMTQwNDQ2.XsJ1IA.3smgJ6zicRt7gLoUrFoENmCsqmI');
+clientDiscord.login('');
