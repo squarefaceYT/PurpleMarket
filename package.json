@@ -2,7 +2,7 @@
     "author": "Squareface",
     "version": "1.0.0",
     "name": "purplemarket",
-    "description": "bot discord"}
-"scripts": {
+    "description": "bot discord",
+    "scripts": {
     "start": "node index.js"
 }
