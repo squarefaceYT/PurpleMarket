@@ -4,5 +4,4 @@
     "name": "purplemarket",
     "description": "bot discord",
     "scripts": {
-    "start": "node index.js"
-}
+    "start": "node index.js"}
